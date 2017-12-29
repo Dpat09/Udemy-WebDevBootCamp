@@ -1,0 +1,15 @@
+body {
+  background-color: #f75252;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  border: 1px solid blue;
+}
+
+.completed {
+  text-decoration-line: line-through;
+}

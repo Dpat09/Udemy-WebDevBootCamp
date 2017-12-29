@@ -1,0 +1,31 @@
+body {
+  max-width: 700px;
+  margin: 20px auto;
+  border: 20px solid #bdc3c7;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.dates {
+  color: #44bef0;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  letter-spacing: 0.2rem;
+}
+
+.postTitle {
+  font-family: sans-serif;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  font-size: 2.0rem;
+}
+
+.post {
+  margin-bottom: 20px;
+}
+
+.post p:nth-of-type(1) {
+  border-left: 6px solid #bdc3c7;
+  padding-left: 5px;
+}

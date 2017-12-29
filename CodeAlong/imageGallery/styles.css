@@ -1,0 +1,15 @@
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+#titleName {
+  margin-left: 1.66%;
+  font-size: 28px;
+  font-weight: 100;
+  font-family: Roboto;
+  text-transform: uppercase;
+  border-bottom: 3px solid red;
+  width: 30%;
+}
